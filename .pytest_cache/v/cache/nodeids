@@ -1,0 +1,8 @@
+[
+  "tests/test_ml_and_api.py::test_flask_dataset_and_sample_frame",
+  "tests/test_ml_and_api.py::test_flask_health_and_evaluate",
+  "tests/test_ml_and_api.py::test_flask_predict_valid_and_uncertain_and_errors",
+  "tests/test_ml_and_api.py::test_model_artifacts_and_all_24_classes",
+  "tests/test_ml_and_api.py::test_preprocessing_rejects_invalid_hands",
+  "tests/test_ml_and_api.py::test_preprocessing_translation_and_scale_invariance"
+]

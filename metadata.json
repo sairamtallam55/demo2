@@ -1,0 +1,6 @@
+{
+  "name": "MudraLab ISL — Indian Sign Language Recognition",
+  "description": "Real-time Indian Sign Language (ISL) A–Z hand gesture recognition and learning workbench using MediaPipe 21-point landmarks and Random Forest machine learning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
